@@ -1,0 +1,4 @@
+project,domain,license,commercial_use,redistribution_key
+GNU Bash,Command-line shell,GPL-3.0-or-later,Allowed,Corresponding source and GPL obligations for covered distributions
+React,UI library,MIT,Allowed,Retain copyright and license text
+Apache Spark,Distributed data processing,Apache-2.0,Allowed,Include license and preserve applicable notices; mark modifications

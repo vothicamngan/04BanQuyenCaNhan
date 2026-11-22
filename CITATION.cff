@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this academic repository, please cite it as below."
+title: "BTH04 – Bản quyền nội dung số: Phân tích GPL, MIT và Apache License 2.0"
+authors:
+  - family-names: "Võ"
+    given-names: "Thị Cẩm Ngân"
+    affiliation: "Học phần Công nghệ số nâng cao, chương trình Thạc sĩ Hệ thống thông tin"
+version: 1.0.0
+date-released: 2026-11-22
+license: MIT
+type: software
+abstract: "Báo cáo học thuật phân tích GNU Bash, React và Apache Spark theo ba giấy phép mã nguồn mở GPL, MIT và Apache License 2.0."
